@@ -91,7 +91,7 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 ## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
 
 
-   <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+   <a href="https://github.com/prabathLK/"><img src="https://i.ibb.co/pj6vTvB6/1000079973.jpg" width=80 height=80></a>   
 
 |**[`Prabath Kumara`](https://github.com/prabathLK)**|
 
