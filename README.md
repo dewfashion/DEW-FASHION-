@@ -83,7 +83,7 @@
 
 This is a list of commands supported by the Prabath-Md bot. The commands are organized in a table with the following structure:
 <img alt="prabath-md" height="300" src="https://i.ibb.co/2RZjdKC/1000079899.jpg">
-  
+<img alt="prabath-md" height="300" src="https://i.ibb.co/KZpGwB4/1000080017.jpg">  
 ✨ Feel free to explore and use these commands!
 
 
