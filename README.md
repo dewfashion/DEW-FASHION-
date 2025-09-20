@@ -85,7 +85,7 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 <img alt="prabath-md" height="300" src="https://i.ibb.co/2RZjdKC/1000079899.jpg">
 <img alt="prabath-md" height="300" src="https://i.ibb.co/KZpGwB4/1000080017.jpg">  
 <img alt="prabath-md" height="300" src="https://i.ibb.co/d0P8DKnp/1000080003.jpg">
-<img alt="prabath-md" height="300" src="https://i.ibb.co/5fYyJNY/1000079070.jpg">
+<img alt="prabath-md" height="300" src="https://i.ibb.co/N6Mp1wBw/1000079983.jpg">
 ✨ Feel free to explore and use these commands!
 
 
